@@ -2,9 +2,9 @@
 
 <img src="./img/fondo.jpg" align="center">
 
-- I am a Data Science student 🙍🏻‍♂️
+- I am a Data Science student. 🙍🏻‍♂️
 - I consider myself an optimistic person, accustomed to working in a dynamic and organized way, and I have a desire to improve and learn.✔
-- Currently I am dedicated to research in the area of Big Data.🔎
+- Currently I am dedicated to research in the area of ​​Big Data. 🔎
 
 ## Technologies that I use:🚀
 
@@ -16,7 +16,7 @@
   <img src="./img/spark.png" width="35" height="35"/> 
 </p>
 
-## Contactame 🌎:
+## Contact me 🌎:
 
 <a href="https://www.linkedin.com/in/Efrain-J-Mamani">
   <img src="./img/linkedin2.png" width="30" height="30"/>
