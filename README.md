@@ -2,8 +2,6 @@
 
 <img src="./img/333.jpg" align="center">
 
-```js
-```
 I am a Data Science student, I consider myself an optimistic person, accustomed to working in a dynamic and organized way, and I have a desire to improve and learn.
 Currently I am dedicated to research in the area of ​​Big Data.
 
