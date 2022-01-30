@@ -1,12 +1,14 @@
 # Hi, I'm Efrain 👋
 
-<img src="./img/333.jpg" aling="center">
+<img src="./img/333.jpg" align="center">
 
 ```js
 ```
-  
-I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. In 2020, I was selected to be an inaugural <a href="https://stars.github.com/">GitHub Star 🌟</a> based on my involvement in the tech community.  My interest in the React ecosystem led me to launch <a href="https://www.reactrobins.com/">React Robins</a>, a community for women and non-binary ReactJS developers.
+I am a Data Science student, I consider myself an optimistic person, accustomed to working in a dynamic and organized way, and I have a desire to improve and learn.
+Currently I am dedicated to research in the area of ​​Big Data.
 
+<h3 align="left">Technologies that I use:</h3>
+<img src="./img/333.jpg" alt="bootstrap" width="100" height="100"/>
 
 ## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 - Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
