@@ -16,8 +16,6 @@
   <img src="./img/spark.png" width="35" height="35"/> 
 </p>
 
-
-
 ## Contactame 🌎:
 
 <a href="https://www.linkedin.com/in/Efrain-J-Mamani">
