@@ -1,6 +1,6 @@
 # Hi, I'm Efrain 👋
 
-<img src="./img/fondo3.png" width="500" height="300" align="center">
+<img src="./img/111.jpg">
 
 ```js
 //life motto
