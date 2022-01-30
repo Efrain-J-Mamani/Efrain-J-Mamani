@@ -22,5 +22,5 @@ Currently I am dedicated to research in the area of ​​Big Data.
 ## Contactame 🌎:
 
 <a href="https://www.linkedin.com/in/Efrain-J-Mamani">
-  <img src="./img/python.png" width="35" height="35"/>
+  <img src="./img/linkedin.png" width="50" height="35"/>
 </a>
