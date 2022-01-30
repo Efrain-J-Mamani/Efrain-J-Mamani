@@ -8,7 +8,13 @@ I am a Data Science student, I consider myself an optimistic person, accustomed 
 Currently I am dedicated to research in the area of ​​Big Data.
 
 <h3 align="left">Technologies that I use:</h3>
-<img src="./img/333.jpg" alt="bootstrap" width="100" height="100"/>
+<p>
+  <img src="./img/python.png" width="50" height="50"/>  
+  <img src="./img/sqlserver.png" width="50" height="50"/>  
+  <img src="./img/pentaho.png" width="50" height="50"/> 
+  <img src="./img/jupyter.png" width="50" height="50"/> 
+  <img src="./img/spark.png" width="50" height="50"/> 
+</p>
 
 ## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 - Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
