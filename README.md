@@ -9,11 +9,11 @@
 ## Technologies that I use:🚀
 
 <p align="left">
-  <img src="./img/python.png" width="35" height="35"/>
-  <img src="./img/sqlserver.png" width="35" height="35"/>
-  <img src="./img/pentaho.png" width="35" height="35"/>
-  <img src="./img/jupyter.png" width="35" height="35"/>
-  <img src="./img/spark.png" width="35" height="35"/> 
+  <img src="./img/python.png" width="40" height="40"/> 
+  <img src="./img/sqlserver.png" width="40" height="40"/> 
+  <img src="./img/pentaho.png" width="40" height="40"/> 
+  <img src="./img/jupyter.png" width="40" height="40"/>  
+  <img src="./img/spark.png" width="40" height="40"/> 
 </p>
 
 ## Contact me 🌎:
